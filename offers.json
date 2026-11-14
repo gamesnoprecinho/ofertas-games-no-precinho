@@ -1,0 +1,195 @@
+{
+ "updated_at": "2026-11-14T01:57:50+00:00",
+ "offers": [
+  {
+   "game": "Knightica",
+   "store": "Epic Games Store",
+   "url": "https://store.epicgames.com/pt-BR/p/knightica-3be45c",
+   "is_free": true,
+   "price_original_brl": 39.99,
+   "price_now_brl": 0.0,
+   "discount_pct": 100,
+   "offer_ends_at": "2026-11-19T13:00-03:00"
+  },
+  {
+   "game": "Beholder",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=728MZcnVMYXwo9wIye%2F1b43YzDL1Hm8PgLFavwb1iew%3D",
+   "is_free": false,
+   "price_original_brl": 44.49,
+   "price_now_brl": 4.44,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Clash - Artifacts of Chaos",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=uCrOLYf2X4HlxI2qT99LwEyMekyHTJcnO0cSlR5%2BmnQ%3D",
+   "is_free": false,
+   "price_original_brl": 105.99,
+   "price_now_brl": 10.59,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Danganronpa: Trigger Happy Havoc",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=lMtY0R6kMmi9fptR%2BpxqdNSfQrawvkrTjt04NcwU6uo%3D",
+   "is_free": false,
+   "price_original_brl": 36.99,
+   "price_now_brl": 3.69,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Pinstripe",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=urteY0T4Tf6F11hvmlZ0vT9ZDN3fNfcO3%2FBonhRxFKo%3D",
+   "is_free": false,
+   "price_original_brl": 46.99,
+   "price_now_brl": 4.69,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Quern - Undying Thoughts",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=pmoPndF2%2BFlQCFjAHYDZ6MyyyJI57LxGNxAxEC1xqfw%3D",
+   "is_free": false,
+   "price_original_brl": 45.99,
+   "price_now_brl": 4.59,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Rising Storm 2: Vietnam",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=zyGVQe8lhbM3BcfjZLODkZm4KQCRHoyiKuQ8XS1wVF4%3D",
+   "is_free": false,
+   "price_original_brl": 45.99,
+   "price_now_brl": 4.59,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Sniper Elite 4",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=PB0QwRBuCWGkI%2FCzoZhoPZTz8MIJ7yTTVLbztoRr24g%3D",
+   "is_free": false,
+   "price_original_brl": 105.99,
+   "price_now_brl": 10.59,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Sniper Elite 5",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=Vlri44GiDlm7KZQIqF53ORcfSwCnrVHB3Z41F4xfALo%3D",
+   "is_free": false,
+   "price_original_brl": 93.99,
+   "price_now_brl": 9.39,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Tchia",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=mmfpzNi7oCzYaqctgbDGIRthO8LlUVJRTvTfR1JzN24%3D",
+   "is_free": false,
+   "price_original_brl": 102.0,
+   "price_now_brl": 10.2,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Winds of Change",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=FgJB58yTlOi0r0ls3yNoipXcmbnXSRLpkDRiK7dyqRo%3D",
+   "is_free": false,
+   "price_original_brl": 36.99,
+   "price_now_brl": 3.69,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=DGxdu00eBj7NmHmpUFo3r2kmwlzeYN%2BFpn9zf0jXpOw%3D",
+   "is_free": false,
+   "price_original_brl": 199.5,
+   "price_now_brl": 29.92,
+   "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
+   "game": "BADLAND: Game of the Year Edition",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=pP%2B23z60Cke6YjWGt3Ff3iYgb2a8uH4xgabCi3RdTUQ%3D",
+   "is_free": false,
+   "price_original_brl": 19.99,
+   "price_now_brl": 2.99,
+   "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Exo One",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=KsFSSu2MepLMnhuWQ1yQ0lHcLzsO7sbNn6uv%2FdXJILM%3D",
+   "is_free": false,
+   "price_original_brl": 52.49,
+   "price_now_brl": 7.87,
+   "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Possessor(s)",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=bj%2B5z967kX%2FPGICjEnf0DZNvfJ%2FgKx8kXaqJjV4Wtms%3D",
+   "is_free": false,
+   "price_original_brl": 37.49,
+   "price_now_brl": 5.62,
+   "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Wizardry 8",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=4RF6LEHZSMLFWuID2BzY1i8v2RdEkic4sRqpXfPOHqM%3D",
+   "is_free": false,
+   "price_original_brl": 19.99,
+   "price_now_brl": 2.99,
+   "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Gunpoint",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=4AFam9yl8h4lAoU3dCWmtdaSO5nzPO65LFi9o4aKztc%3D",
+   "is_free": false,
+   "price_original_brl": 16.99,
+   "price_now_brl": 3.39,
+   "discount_pct": 80,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Sid Meier's Civilization IV",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=khSrhkgpaxgOWWEYV9MdKid%2FcDzIGa0zHzvh5j73lLo%3D",
+   "is_free": false,
+   "price_original_brl": 29.99,
+   "price_now_brl": 5.99,
+   "discount_pct": 80,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Tom Clancy's Splinter Cell",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=yM5zDX6hLQY9b1hrKL0teFLZSLQA%2BQGyXh6Alk6OvBo%3D",
+   "is_free": false,
+   "price_original_brl": 49.99,
+   "price_now_brl": 12.49,
+   "discount_pct": 75,
+   "offer_ends_at": null
+  }
+ ]
+}
