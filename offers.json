@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T01:57:50+00:00",
+ "updated_at": "2026-11-14T12:00:42+00:00",
  "offers": [
   {
    "game": "Knightica",
@@ -138,16 +138,6 @@
    "is_free": false,
    "price_original_brl": 52.49,
    "price_now_brl": 7.87,
-   "discount_pct": 85,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Possessor(s)",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=bj%2B5z967kX%2FPGICjEnf0DZNvfJ%2FgKx8kXaqJjV4Wtms%3D",
-   "is_free": false,
-   "price_original_brl": 37.49,
-   "price_now_brl": 5.62,
    "discount_pct": 85,
    "offer_ends_at": null
   },
