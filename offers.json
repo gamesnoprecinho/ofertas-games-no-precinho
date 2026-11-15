@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-14T12:00:42+00:00",
+ "updated_at": "2026-11-15T12:01:10+00:00",
  "offers": [
   {
    "game": "Knightica",
@@ -10,16 +10,6 @@
    "price_now_brl": 0.0,
    "discount_pct": 100,
    "offer_ends_at": "2026-11-19T13:00-03:00"
-  },
-  {
-   "game": "Beholder",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=728MZcnVMYXwo9wIye%2F1b43YzDL1Hm8PgLFavwb1iew%3D",
-   "is_free": false,
-   "price_original_brl": 44.49,
-   "price_now_brl": 4.44,
-   "discount_pct": 90,
-   "offer_ends_at": null
   },
   {
    "game": "Clash - Artifacts of Chaos",
@@ -72,16 +62,6 @@
    "offer_ends_at": null
   },
   {
-   "game": "Sniper Elite 4",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=PB0QwRBuCWGkI%2FCzoZhoPZTz8MIJ7yTTVLbztoRr24g%3D",
-   "is_free": false,
-   "price_original_brl": 105.99,
-   "price_now_brl": 10.59,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
    "game": "Sniper Elite 5",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=Vlri44GiDlm7KZQIqF53ORcfSwCnrVHB3Z41F4xfALo%3D",
@@ -122,16 +102,6 @@
    "offer_ends_at": null
   },
   {
-   "game": "BADLAND: Game of the Year Edition",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=pP%2B23z60Cke6YjWGt3Ff3iYgb2a8uH4xgabCi3RdTUQ%3D",
-   "is_free": false,
-   "price_original_brl": 19.99,
-   "price_now_brl": 2.99,
-   "discount_pct": 85,
-   "offer_ends_at": null
-  },
-  {
    "game": "Exo One",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=KsFSSu2MepLMnhuWQ1yQ0lHcLzsO7sbNn6uv%2FdXJILM%3D",
@@ -152,12 +122,42 @@
    "offer_ends_at": null
   },
   {
-   "game": "Gunpoint",
+   "game": "Botanicula",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=4AFam9yl8h4lAoU3dCWmtdaSO5nzPO65LFi9o4aKztc%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=tOxeKOpQkDJjYsKXCv2dSC4Im8upw99PKTuvfaZJn48%3D",
    "is_free": false,
-   "price_original_brl": 16.99,
-   "price_now_brl": 3.39,
+   "price_original_brl": 54.99,
+   "price_now_brl": 10.99,
+   "discount_pct": 80,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Creaks",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=tfNAfGCIZcN3SCs0P1ajnGF43KbJBl1q1jiOoOh1I84%3D",
+   "is_free": false,
+   "price_original_brl": 69.99,
+   "price_now_brl": 13.99,
+   "discount_pct": 80,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Happy Game",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=HTsH%2B1W4DkUB5%2FjTBIP7HotcOZ83BB83mP95Vooi7S0%3D",
+   "is_free": false,
+   "price_original_brl": 54.99,
+   "price_now_brl": 10.99,
+   "discount_pct": 80,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Pilgrims",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=UCUK7aminXiSAmL7j8YjSR%2BK7m5urUBBas7YtvGoq4k%3D",
+   "is_free": false,
+   "price_original_brl": 24.99,
+   "price_now_brl": 4.99,
    "discount_pct": 80,
    "offer_ends_at": null
   },
