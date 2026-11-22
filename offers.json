@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-21T14:06:34+00:00",
+ "updated_at": "2026-11-22T12:55:11+00:00",
  "offers": [
   {
    "game": "Mark of the Deep",
@@ -12,12 +12,52 @@
    "offer_ends_at": "2026-11-26T13:00-03:00"
   },
   {
+   "game": "Roguebook",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=Z9M0xyIRNKo%2FtehscZEH39Y3m8ETnooq3Du6tdgwoLk%3D",
+   "is_free": false,
+   "price_original_brl": 109.99,
+   "price_now_brl": 7.69,
+   "discount_pct": 93,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Old World",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=VZNqIkRYQZOr5OfgRmFAOC1qW%2BixTY7yt%2B5v0iHCPJI%3D",
+   "is_free": false,
+   "price_original_brl": 79.99,
+   "price_now_brl": 7.19,
+   "discount_pct": 91,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Darkwood",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=0Wo%2FtiwTKruZhIoO%2B92hQwmrPrrF6r4scAXKaFyVKnA%3D",
+   "is_free": false,
+   "price_original_brl": 39.99,
+   "price_now_brl": 3.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
    "game": "Dead Space",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=NzJzHgicjW1oluhWnkaHFCrkXSCErxxb2C6nWU2drY8%3D",
    "is_free": false,
    "price_original_brl": 249.0,
    "price_now_brl": 24.9,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Fury Unleashed",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=zgKPO0K0tU4PNWWCa%2BcMUDK1j6FnXB5G07rtN2WxUS8%3D",
+   "is_free": false,
+   "price_original_brl": 59.99,
+   "price_now_brl": 5.99,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -58,6 +98,16 @@
    "is_free": false,
    "price_original_brl": 129.0,
    "price_now_brl": 12.9,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Valfaris",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=1WnSkUl4HVy1GxtpZRKBJ5QaMwxwg%2Fyof1cdmMwAGbE%3D",
+   "is_free": false,
+   "price_original_brl": 47.49,
+   "price_now_brl": 4.74,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -112,6 +162,16 @@
    "offer_ends_at": null
   },
   {
+   "game": "Homeworld Remastered Collection",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=Ersqftfht15yRvVi%2BQtYqzHcXHuORprGmyDT0uvo5zc%3D",
+   "is_free": false,
+   "price_original_brl": 63.99,
+   "price_now_brl": 9.59,
+   "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
    "game": "Titanfall 2",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=gG2%2Bohshlnn7OrFVMY0XyW%2FmVNngWNdY1auy7L5aOAc%3D",
@@ -119,6 +179,16 @@
    "price_original_brl": 89.0,
    "price_now_brl": 13.35,
    "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Against the Storm",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=SCFDbQ%2Few8Sdwb3b5be2y8x%2F%2FB6v3msLIA4YknqJtwU%3D",
+   "is_free": false,
+   "price_original_brl": 59.99,
+   "price_now_brl": 11.99,
+   "discount_pct": 80,
    "offer_ends_at": null
   }
  ]
