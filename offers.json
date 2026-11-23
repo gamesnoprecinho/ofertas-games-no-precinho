@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T12:55:11+00:00",
+ "updated_at": "2026-11-23T12:00:56+00:00",
  "offers": [
   {
    "game": "Mark of the Deep",
@@ -52,6 +52,16 @@
    "offer_ends_at": null
   },
   {
+   "game": "Everything",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=kRObGZLn4nmp1yy4uTd69iobtPC4nWuqjsxPKS3MPqI%3D",
+   "is_free": false,
+   "price_original_brl": 27.99,
+   "price_now_brl": 2.79,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
    "game": "Fury Unleashed",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=zgKPO0K0tU4PNWWCa%2BcMUDK1j6FnXB5G07rtN2WxUS8%3D",
@@ -62,32 +72,22 @@
    "offer_ends_at": null
   },
   {
+   "game": "Green Hell",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=iUVXeEDqxCFmRDPjCo1c%2BPX3LgmEOhKzlf5f8GcNcAM%3D",
+   "is_free": false,
+   "price_original_brl": 82.0,
+   "price_now_brl": 8.2,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
    "game": "Just Cause 2",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=z4El8C19yCEHrk1%2ByEedebThQVbblI7H0Z%2BAmxgZiS8%3D",
    "is_free": false,
    "price_original_brl": 64.9,
    "price_now_brl": 6.49,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Metro Exodus",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=l7KtB1naNb4PDbjpECJuOfLqnBxx9O%2BMEJjGGZd7u84%3D",
-   "is_free": false,
-   "price_original_brl": 149.0,
-   "price_now_brl": 14.9,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Roki",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=haBmFYOLTY4Xi3U3oVnVJy135%2Bdbep10TLJayW2BIHA%3D",
-   "is_free": false,
-   "price_original_brl": 89.99,
-   "price_now_brl": 8.99,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -112,42 +112,22 @@
    "offer_ends_at": null
   },
   {
-   "game": "Tails of Iron",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=5SVeZtavzKw5Y1sCUkZpPtLKJVjM3eh%2BA48gsrEWHxw%3D",
-   "is_free": false,
-   "price_original_brl": 79.99,
-   "price_now_brl": 9.59,
-   "discount_pct": 88,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Ultra Street Fighter IV",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=7JWDpApz3Yee5JDgO2UrtekSUc5XIOvkX6pwVcI%2B9xQ%3D",
-   "is_free": false,
-   "price_original_brl": 129.0,
-   "price_now_brl": 16.77,
-   "discount_pct": 87,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Dungeon Siege",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=Hli8KbDatTjYjj%2BjpnfUuVKjxPwQPmblW1llCXyMMmU%3D",
-   "is_free": false,
-   "price_original_brl": 21.9,
-   "price_now_brl": 3.06,
-   "discount_pct": 86,
-   "offer_ends_at": null
-  },
-  {
    "game": "Borderlands 2",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=y9vH5Xf2O3lmQzX8IprLnYJ8PT7C2MafD4gPIMz7y%2Fs%3D",
    "is_free": false,
    "price_original_brl": 99.99,
    "price_now_brl": 14.99,
+   "discount_pct": 85,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Darkest Dungeon",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=nzRknHTNmwxeXPuUVD4fpOnwQUs6FawipebfDeyQwYE%3D",
+   "is_free": false,
+   "price_original_brl": 73.99,
+   "price_now_brl": 11.09,
    "discount_pct": 85,
    "offer_ends_at": null
   },
@@ -168,16 +148,6 @@
    "is_free": false,
    "price_original_brl": 63.99,
    "price_now_brl": 9.59,
-   "discount_pct": 85,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Titanfall 2",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=gG2%2Bohshlnn7OrFVMY0XyW%2FmVNngWNdY1auy7L5aOAc%3D",
-   "is_free": false,
-   "price_original_brl": 89.0,
-   "price_now_brl": 13.35,
    "discount_pct": 85,
    "offer_ends_at": null
   },
