@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-23T12:00:56+00:00",
+ "updated_at": "2026-11-24T15:00:21+00:00",
  "offers": [
   {
    "game": "Mark of the Deep",
@@ -12,42 +12,32 @@
    "offer_ends_at": "2026-11-26T13:00-03:00"
   },
   {
-   "game": "Roguebook",
+   "game": "Anarcute",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=Z9M0xyIRNKo%2FtehscZEH39Y3m8ETnooq3Du6tdgwoLk%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=C6jS0cMOJaii7ZlifRiOshgANjEMhPqCHATiC3PzfnI%3D",
    "is_free": false,
-   "price_original_brl": 109.99,
-   "price_now_brl": 7.69,
-   "discount_pct": 93,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Old World",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=VZNqIkRYQZOr5OfgRmFAOC1qW%2BixTY7yt%2B5v0iHCPJI%3D",
-   "is_free": false,
-   "price_original_brl": 79.99,
-   "price_now_brl": 7.19,
-   "discount_pct": 91,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Darkwood",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=0Wo%2FtiwTKruZhIoO%2B92hQwmrPrrF6r4scAXKaFyVKnA%3D",
-   "is_free": false,
-   "price_original_brl": 39.99,
-   "price_now_brl": 3.99,
+   "price_original_brl": 35.99,
+   "price_now_brl": 3.59,
    "discount_pct": 90,
    "offer_ends_at": null
   },
   {
-   "game": "Dead Space",
+   "game": "Detroit: Become Human",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=NzJzHgicjW1oluhWnkaHFCrkXSCErxxb2C6nWU2drY8%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=NPefYyfzS6YK5wFPNPdTqj5w6I3%2F62eTCYBdRBwbrWs%3D",
    "is_free": false,
-   "price_original_brl": 249.0,
-   "price_now_brl": 24.9,
+   "price_original_brl": 199.99,
+   "price_now_brl": 19.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Divinity: Original Sin - Enhanced Edition",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=vTZ81A14wUS99zrsTQ2UVPE%2BbPMgndYC%2BNJbOgQZ7Fs%3D",
+   "is_free": false,
+   "price_original_brl": 72.99,
+   "price_now_brl": 7.29,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -62,42 +52,32 @@
    "offer_ends_at": null
   },
   {
-   "game": "Fury Unleashed",
+   "game": "Hogwarts Legacy",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=zgKPO0K0tU4PNWWCa%2BcMUDK1j6FnXB5G07rtN2WxUS8%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=ItzaKCtDAPDq8RCrn48ObsYBlbZFBaoCNeZ9gTSPvrY%3D",
    "is_free": false,
-   "price_original_brl": 59.99,
-   "price_now_brl": 5.99,
+   "price_original_brl": 249.99,
+   "price_now_brl": 24.99,
    "discount_pct": 90,
    "offer_ends_at": null
   },
   {
-   "game": "Green Hell",
+   "game": "Mortal Kombat11",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=iUVXeEDqxCFmRDPjCo1c%2BPX3LgmEOhKzlf5f8GcNcAM%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=LC4E%2BARf7Ilc9Y%2ByK5ObmKRrtjxEwY5%2Bu97zrBdi%2Bj8%3D",
    "is_free": false,
-   "price_original_brl": 82.0,
-   "price_now_brl": 8.2,
+   "price_original_brl": 229.99,
+   "price_now_brl": 22.99,
    "discount_pct": 90,
    "offer_ends_at": null
   },
   {
-   "game": "Just Cause 2",
+   "game": "Splasher",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=z4El8C19yCEHrk1%2ByEedebThQVbblI7H0Z%2BAmxgZiS8%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=aN8Pts0iKYHPB5E4ylPqEAydB4jWBv1q1uEQ%2FlScpDY%3D",
    "is_free": false,
-   "price_original_brl": 64.9,
-   "price_now_brl": 6.49,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Sid Meiers Civilization VI",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=5xRuVIgFiH0TW2PTPJPlTN4NYMjAt4bg3p1CvKMMJv8%3D",
-   "is_free": false,
-   "price_original_brl": 129.0,
-   "price_now_brl": 12.9,
+   "price_original_brl": 35.99,
+   "price_now_brl": 3.59,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -112,26 +92,6 @@
    "offer_ends_at": null
   },
   {
-   "game": "Borderlands 2",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=y9vH5Xf2O3lmQzX8IprLnYJ8PT7C2MafD4gPIMz7y%2Fs%3D",
-   "is_free": false,
-   "price_original_brl": 99.99,
-   "price_now_brl": 14.99,
-   "discount_pct": 85,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Darkest Dungeon",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=nzRknHTNmwxeXPuUVD4fpOnwQUs6FawipebfDeyQwYE%3D",
-   "is_free": false,
-   "price_original_brl": 73.99,
-   "price_now_brl": 11.09,
-   "discount_pct": 85,
-   "offer_ends_at": null
-  },
-  {
    "game": "Deus Ex: Human Revolution - Director's Cut",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=HhzMJAgQYGZ%2B%2BFPpBG%2BRFcuUQZJO3KXvlnyYYGwGUfU%3D",
@@ -142,22 +102,32 @@
    "offer_ends_at": null
   },
   {
-   "game": "Homeworld Remastered Collection",
+   "game": "The Swapper",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=Ersqftfht15yRvVi%2BQtYqzHcXHuORprGmyDT0uvo5zc%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=KQg9Qq%2BJ5%2BC2QuzHKtmYg1envCpcqA713vsPbekbtGk%3D",
    "is_free": false,
-   "price_original_brl": 63.99,
-   "price_now_brl": 9.59,
+   "price_original_brl": 24.99,
+   "price_now_brl": 3.74,
    "discount_pct": 85,
    "offer_ends_at": null
   },
   {
-   "game": "Against the Storm",
+   "game": "The Knightling",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=SCFDbQ%2Few8Sdwb3b5be2y8x%2F%2FB6v3msLIA4YknqJtwU%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=t%2BVWNgJas%2F28Pg2PPAA5A6reRgeEpvLHaXgKUYoQvJ0%3D",
    "is_free": false,
-   "price_original_brl": 59.99,
-   "price_now_brl": 11.99,
+   "price_original_brl": 99.9,
+   "price_now_brl": 15.98,
+   "discount_pct": 84,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Prince of Persia: The Sands of Time",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=ZblEZO%2Fy4fXzX2MPHRLN%2FMTI1Q1hXXXPFMvMrud8%2B6Y%3D",
+   "is_free": false,
+   "price_original_brl": 29.99,
+   "price_now_brl": 5.99,
    "discount_pct": 80,
    "offer_ends_at": null
   }
