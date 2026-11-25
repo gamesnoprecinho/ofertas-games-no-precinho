@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-24T15:00:21+00:00",
+ "updated_at": "2026-11-25T16:31:29+00:00",
  "offers": [
   {
    "game": "Mark of the Deep",
@@ -22,12 +22,12 @@
    "offer_ends_at": null
   },
   {
-   "game": "Detroit: Become Human",
+   "game": "Deathtrap",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=NPefYyfzS6YK5wFPNPdTqj5w6I3%2F62eTCYBdRBwbrWs%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=PPTlgVPPWKDTOT8SdwHtb6NQizAesvfm0E13BXls%2Ft8%3D",
    "is_free": false,
-   "price_original_brl": 199.99,
-   "price_now_brl": 19.99,
+   "price_original_brl": 59.99,
+   "price_now_brl": 5.99,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -38,16 +38,6 @@
    "is_free": false,
    "price_original_brl": 72.99,
    "price_now_brl": 7.29,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Everything",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=kRObGZLn4nmp1yy4uTd69iobtPC4nWuqjsxPKS3MPqI%3D",
-   "is_free": false,
-   "price_original_brl": 27.99,
-   "price_now_brl": 2.79,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -112,23 +102,23 @@
    "offer_ends_at": null
   },
   {
-   "game": "The Knightling",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=t%2BVWNgJas%2F28Pg2PPAA5A6reRgeEpvLHaXgKUYoQvJ0%3D",
-   "is_free": false,
-   "price_original_brl": 99.9,
-   "price_now_brl": 15.98,
-   "discount_pct": 84,
-   "offer_ends_at": null
-  },
-  {
    "game": "Prince of Persia: The Sands of Time",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=ZblEZO%2Fy4fXzX2MPHRLN%2FMTI1Q1hXXXPFMvMrud8%2B6Y%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=O8MIc00gBccqUrm9Wv0XOwd3rqYPa7qC9cY2J5fvcqY%3D",
    "is_free": false,
    "price_original_brl": 29.99,
    "price_now_brl": 5.99,
    "discount_pct": 80,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Hades",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=%2FRRvRbW4trH2Me4HcfUIFk5pCGamwlMuyid9ZTDJ4do%3D",
+   "is_free": false,
+   "price_original_brl": 73.99,
+   "price_now_brl": 18.49,
+   "discount_pct": 75,
    "offer_ends_at": null
   }
  ]
