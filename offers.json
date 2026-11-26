@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-25T16:31:29+00:00",
+ "updated_at": "2026-11-26T12:01:12+00:00",
  "offers": [
   {
    "game": "Mark of the Deep",
@@ -22,12 +22,32 @@
    "offer_ends_at": null
   },
   {
+   "game": "Chaos on Deponia",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=pnmef7xhjpt2t5KKGYAZ3LalaEHqw7xIRvzSttFhemI%3D",
+   "is_free": false,
+   "price_original_brl": 24.99,
+   "price_now_brl": 2.49,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
    "game": "Deathtrap",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=PPTlgVPPWKDTOT8SdwHtb6NQizAesvfm0E13BXls%2Ft8%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=9iTPCT6D9LcYoXLgchFUFhcMOwJtU%2BCeR3l8qWbNgCc%3D",
    "is_free": false,
    "price_original_brl": 59.99,
    "price_now_brl": 5.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Deponia Doomsday",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=JlkkbcPiJJv%2FUZQ6ZbaF7VnOMSbQntUcmjH39fS8b90%3D",
+   "is_free": false,
+   "price_original_brl": 36.99,
+   "price_now_brl": 3.69,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -42,6 +62,16 @@
    "offer_ends_at": null
   },
   {
+   "game": "Goodbye Deponia",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=Emke7m9VWcAU%2B7apFaQ5B6CUOJziWE0lr5t1qTQg5G0%3D",
+   "is_free": false,
+   "price_original_brl": 59.99,
+   "price_now_brl": 5.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
    "game": "Hogwarts Legacy",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=ItzaKCtDAPDq8RCrn48ObsYBlbZFBaoCNeZ9gTSPvrY%3D",
@@ -52,12 +82,42 @@
    "offer_ends_at": null
   },
   {
+   "game": "Iratus Lord of the Dead",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=SmXMJ7X56qNckO4YU4wJ%2FTYblQtK7tqTrlmxwv%2FNJq8%3D",
+   "is_free": false,
+   "price_original_brl": 99.99,
+   "price_now_brl": 9.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Ken Follett's The Pillars of the Earth",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=nNrTCLD%2BZx85p1jM2qNEakFiEXaeuqbJtxEiJbM9AyI%3D",
+   "is_free": false,
+   "price_original_brl": 59.99,
+   "price_now_brl": 5.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
    "game": "Mortal Kombat11",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=LC4E%2BARf7Ilc9Y%2ByK5ObmKRrtjxEwY5%2Bu97zrBdi%2Bj8%3D",
    "is_free": false,
    "price_original_brl": 229.99,
    "price_now_brl": 22.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
+   "game": "Shadow Tactics: Blades of the Shogun",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=evPHVt7ofnWKB48WqFd8YaqH6sGGEZO6%2FaJ5%2F80L1YU%3D",
+   "is_free": false,
+   "price_original_brl": 109.99,
+   "price_now_brl": 10.99,
    "discount_pct": 90,
    "offer_ends_at": null
   },
