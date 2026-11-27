@@ -1,53 +1,33 @@
 {
- "updated_at": "2026-11-26T12:01:12+00:00",
+ "updated_at": "2026-11-27T15:04:39+00:00",
  "offers": [
   {
-   "game": "Mark of the Deep",
+   "game": "Bread and Fred",
    "store": "Epic Games Store",
-   "url": "https://store.epicgames.com/pt-BR/p/mark-of-the-deep-f7dc08",
+   "url": "https://store.epicgames.com/pt-BR/p/bread-and-fred-1db362",
    "is_free": true,
    "price_original_brl": 39.99,
    "price_now_brl": 0.0,
    "discount_pct": 100,
-   "offer_ends_at": "2026-11-26T13:00-03:00"
+   "offer_ends_at": "2026-12-03T13:00-03:00"
   },
   {
-   "game": "Anarcute",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=C6jS0cMOJaii7ZlifRiOshgANjEMhPqCHATiC3PzfnI%3D",
-   "is_free": false,
-   "price_original_brl": 35.99,
-   "price_now_brl": 3.59,
-   "discount_pct": 90,
-   "offer_ends_at": null
+   "game": "Firestone – Idle Clicker Online RPG",
+   "store": "Epic Games Store",
+   "url": "https://store.epicgames.com/pt-BR/p/firestone-online-idle-rpg-bfd04b",
+   "is_free": true,
+   "price_original_brl": null,
+   "price_now_brl": 0.0,
+   "discount_pct": null,
+   "offer_ends_at": "2026-12-03T13:00-03:00"
   },
   {
-   "game": "Chaos on Deponia",
+   "game": "Cruelty Squad",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=pnmef7xhjpt2t5KKGYAZ3LalaEHqw7xIRvzSttFhemI%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=z7QIDb1gN5GCKZ%2FoJN88DNqeGqnf7r1J4XQ0tT6q1zY%3D",
    "is_free": false,
-   "price_original_brl": 24.99,
-   "price_now_brl": 2.49,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Deathtrap",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=9iTPCT6D9LcYoXLgchFUFhcMOwJtU%2BCeR3l8qWbNgCc%3D",
-   "is_free": false,
-   "price_original_brl": 59.99,
-   "price_now_brl": 5.99,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Deponia Doomsday",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=JlkkbcPiJJv%2FUZQ6ZbaF7VnOMSbQntUcmjH39fS8b90%3D",
-   "is_free": false,
-   "price_original_brl": 36.99,
-   "price_now_brl": 3.69,
+   "price_original_brl": 37.99,
+   "price_now_brl": 3.79,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -62,52 +42,22 @@
    "offer_ends_at": null
   },
   {
+   "game": "Evil Genius",
+   "store": "Steam",
+   "url": "https://www.cheapshark.com/redirect?dealID=EzzEvAvunBxvNdePvTwnzmKDv1w8UJTueI18Ej51btY%3D",
+   "is_free": false,
+   "price_original_brl": 19.99,
+   "price_now_brl": 1.99,
+   "discount_pct": 90,
+   "offer_ends_at": null
+  },
+  {
    "game": "Goodbye Deponia",
    "store": "Steam",
    "url": "https://www.cheapshark.com/redirect?dealID=Emke7m9VWcAU%2B7apFaQ5B6CUOJziWE0lr5t1qTQg5G0%3D",
    "is_free": false,
    "price_original_brl": 59.99,
    "price_now_brl": 5.99,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Hogwarts Legacy",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=ItzaKCtDAPDq8RCrn48ObsYBlbZFBaoCNeZ9gTSPvrY%3D",
-   "is_free": false,
-   "price_original_brl": 249.99,
-   "price_now_brl": 24.99,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Iratus Lord of the Dead",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=SmXMJ7X56qNckO4YU4wJ%2FTYblQtK7tqTrlmxwv%2FNJq8%3D",
-   "is_free": false,
-   "price_original_brl": 99.99,
-   "price_now_brl": 9.99,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Ken Follett's The Pillars of the Earth",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=nNrTCLD%2BZx85p1jM2qNEakFiEXaeuqbJtxEiJbM9AyI%3D",
-   "is_free": false,
-   "price_original_brl": 59.99,
-   "price_now_brl": 5.99,
-   "discount_pct": 90,
-   "offer_ends_at": null
-  },
-  {
-   "game": "Mortal Kombat11",
-   "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=LC4E%2BARf7Ilc9Y%2ByK5ObmKRrtjxEwY5%2Bu97zrBdi%2Bj8%3D",
-   "is_free": false,
-   "price_original_brl": 229.99,
-   "price_now_brl": 22.99,
    "discount_pct": 90,
    "offer_ends_at": null
   },
@@ -122,63 +72,63 @@
    "offer_ends_at": null
   },
   {
-   "game": "Splasher",
+   "game": "Warhammer: End Times - Vermintide",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=aN8Pts0iKYHPB5E4ylPqEAydB4jWBv1q1uEQ%2FlScpDY%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=IFYr9AIXHCkSKU0rkj1Tl2V1Cvk%2BWPz%2FmGaH2%2F%2BufYc%3D",
    "is_free": false,
-   "price_original_brl": 35.99,
-   "price_now_brl": 3.59,
+   "price_original_brl": 88.99,
+   "price_now_brl": 8.89,
    "discount_pct": 90,
    "offer_ends_at": null
   },
   {
-   "game": "Valfaris",
+   "game": "Warhammer: Vermintide 2",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=1WnSkUl4HVy1GxtpZRKBJ5QaMwxwg%2Fyof1cdmMwAGbE%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=WsGdr8u7VzKVcEhPy%2BuEqhvHQegMgCeyKlIthyE7rWI%3D",
    "is_free": false,
-   "price_original_brl": 47.49,
-   "price_now_brl": 4.74,
+   "price_original_brl": 88.99,
+   "price_now_brl": 8.89,
    "discount_pct": 90,
    "offer_ends_at": null
   },
   {
-   "game": "Deus Ex: Human Revolution - Director's Cut",
+   "game": "Disc Room",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=HhzMJAgQYGZ%2B%2BFPpBG%2BRFcuUQZJO3KXvlnyYYGwGUfU%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=uZezU7r1ORN7FqVBGFcA4MF8uOPvYnVQoNNdK%2FaOiiY%3D",
    "is_free": false,
-   "price_original_brl": 83.49,
-   "price_now_brl": 12.52,
+   "price_original_brl": 46.99,
+   "price_now_brl": 7.04,
    "discount_pct": 85,
    "offer_ends_at": null
   },
   {
-   "game": "The Swapper",
+   "game": "Door Kickers",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=KQg9Qq%2BJ5%2BC2QuzHKtmYg1envCpcqA713vsPbekbtGk%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=Ag5ntcKmi1Iih%2FgiSbn45z%2BBdchiBCri6L82VjGeFU8%3D",
    "is_free": false,
-   "price_original_brl": 24.99,
-   "price_now_brl": 3.74,
+   "price_original_brl": 59.99,
+   "price_now_brl": 8.99,
    "discount_pct": 85,
    "offer_ends_at": null
   },
   {
-   "game": "Prince of Persia: The Sands of Time",
+   "game": "The Witcher 2: Assassins of Kings Enhanced Edition",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=O8MIc00gBccqUrm9Wv0XOwd3rqYPa7qC9cY2J5fvcqY%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=8JWQ51DVapSJnGVviMI0Hgu4YFqxme2sBdLD3vh6dZw%3D",
    "is_free": false,
-   "price_original_brl": 29.99,
-   "price_now_brl": 5.99,
-   "discount_pct": 80,
+   "price_original_brl": 59.99,
+   "price_now_brl": 8.99,
+   "discount_pct": 85,
    "offer_ends_at": null
   },
   {
-   "game": "Hades",
+   "game": "The Witcher: Enhanced Edition Director's Cut",
    "store": "Steam",
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FRRvRbW4trH2Me4HcfUIFk5pCGamwlMuyid9ZTDJ4do%3D",
+   "url": "https://www.cheapshark.com/redirect?dealID=XvdAVEU9b7gYQqsNjJB6TCQtxN8qpubzIpJWMLvEVsQ%3D",
    "is_free": false,
-   "price_original_brl": 73.99,
-   "price_now_brl": 18.49,
-   "discount_pct": 75,
+   "price_original_brl": 34.99,
+   "price_now_brl": 5.24,
+   "discount_pct": 85,
    "offer_ends_at": null
   }
  ]
